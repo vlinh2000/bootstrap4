@@ -92,3 +92,16 @@ background-color: red;
 .p-title:hover{
 color: #D05165;
 }
+
+.signup-section{
+	position: relative;
+	background-image: url("./img/bginput.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+.sign-title{
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}

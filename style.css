@@ -76,3 +76,10 @@ background-color: red;
 	height: 29px;
 	flex-grow: 1;
 }
+.more{
+	color: #AAA;
+}
+.more:hover{
+	color: #D05165; !important;
+    text-decoration: none;
+}

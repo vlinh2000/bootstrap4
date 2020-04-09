@@ -83,3 +83,12 @@ background-color: red;
 	color: #D05165; !important;
     text-decoration: none;
 }
+.special-title{
+	font-size: 13px;
+}
+.p-price{
+	color: #D05165; !important;
+}
+.p-title:hover{
+color: #D05165;
+}

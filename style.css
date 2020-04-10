@@ -128,3 +128,10 @@ color: #D05165;
 	font-size: 12px;
 	padding:7px 0 0 0;
 }
+.social-icon .icon-image{
+	padding: 10px 12px;
+	font-size: 20px;
+	margin-top: 10px;
+	background-color: #F1EFE2;
+	margin-right: 5px;
+}

@@ -105,3 +105,26 @@ color: #D05165;
 	top: 20%;
 	left: 40%;
 }
+
+.contact{
+	background-color: #F1EFE2;
+}
+
+.icon-image{
+	background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #cccccc;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    transition: all 350ms ease-out 0s;
+}
+.contact-col:hover .icon-image{
+	border-top-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+	background-color:  #D05165;
+	color: #FFF;
+}
+.info p{
+	font-size: 12px;
+	padding:7px 0 0 0;
+}

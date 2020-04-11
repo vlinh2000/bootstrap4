@@ -135,3 +135,11 @@ color: #D05165;
 	background-color: #F1EFE2;
 	margin-right: 5px;
 }
+
+.items .item{
+	font-size: 13px;
+}
+.footer-title{
+	font-size: 13px;
+	margin-top: 15px;
+}
